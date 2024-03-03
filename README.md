@@ -8,7 +8,7 @@ Inspired by the works of Piet Mondrian, this project showcases an artistic repre
 
 ## Preview
 
-You can view the Piet Mondrian-style artwork directly in your browser by accessing the [live demo](https://svk091.github.io/Piet-Mondrian-style-art-using-CSS-grid/).
+You can view the Piet Mondrian-style artwork directly in your browser by accessing the [live demo](https://svk091.github.io/Piet-Mondrian-style-art-using-CSS-grid./).
 
 ## Features
 
